@@ -21,14 +21,14 @@ Code Repositories: Access code samples to support your learning.
 
 <br>
 
-<div style="text-align: center;">
-  <p><strong>Navigate to the labs here</strong> 👇</p>
-  
-  <a href="https://github.com/kuberada/kuberada-labs">
-    <img src="https://github.com/kuberada/kuberada-blog/blob/main/og/kuberada.png" alt="kuberada blog" width="300" height="300">
-  </a>
-</div>
+<h2 align="center">
+Navigate to the labs here 👇
 
+</h2>
+
+<p align="center" width="100%">
+    <img src="https://github.com/kuberada/kuberada-blog/blob/main/og/kuberada.png" alt="kuberada blog" width="300" height="300">
+</p>
 
 
 ### 🚀 Dive In Now
