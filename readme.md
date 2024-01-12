@@ -24,7 +24,7 @@ Code Repositories: Access code samples to support your learning.
 
 
 <a href="https://github.com/kuberada/kuberada-labs">
-  <img src="https://github.com/kuberada/kuberada-blog/blob/main/og/kuberada.png" alt="kuberada blog">
+  <img src="https://github.com/kuberada/kuberada-blog/blob/main/og/kuberada.png" alt="kuberada blog" width="300" height="300">
 </a>
 
 
