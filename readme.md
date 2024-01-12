@@ -19,14 +19,15 @@ Code Repositories: Access code samples to support your learning.
 - **Clone the Repo**: Grab the code by cloning this repository to your computer.
 - **Follow Blog Posts**: Use labs alongside our blog posts for a complete learning experience.
 
+<br>
 
-**Navigate to the labs here** 👇
-
-
-<a href="https://github.com/kuberada/kuberada-labs">
-  <img src="https://github.com/kuberada/kuberada-blog/blob/main/og/kuberada.png" alt="kuberada blog" width="300" height="300">
-</a>
-
+<div style="text-align: center;">
+  <p><strong>Navigate to the labs here</strong> 👇</p>
+  
+  <a href="https://github.com/kuberada/kuberada-labs">
+    <img src="https://github.com/kuberada/kuberada-blog/blob/main/og/kuberada.png" alt="kuberada blog" width="300" height="300">
+  </a>
+</div>
 
 
 
@@ -37,4 +38,3 @@ As DevOps enthusiasts, we're passionate about sharing knowledge. These labs are 
 Visit our Kuberada Blog Labs Repository and start your hands-on learning adventure!
 
 
-kuberada blog
