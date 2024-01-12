@@ -22,14 +22,15 @@ Code Repositories: Access code samples to support your learning.
 <br>
 
 <h2 align="center">
-Navigate to the labs here 👇
+Start reading the blog here 👇
 
 </h2>
 
 <p align="center" width="100%">
-    <img src="https://github.com/kuberada/kuberada-blog/blob/main/og/kuberada.png" alt="kuberada blog" width="300" height="300">
+  <a href="https://kuberada.devtechops.dev/" target="_blank">
+    <img src="https://github.com/kuberada/kuberada-blog/blob/main/og/kuberada.png" alt="kuberada blog" width="150" height="150">
+  </a>
 </p>
-
 
 ### 🚀 Dive In Now
 
